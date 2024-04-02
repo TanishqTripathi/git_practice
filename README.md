@@ -1,2 +1,2 @@
 # git_practice
-author - TKT
+author - Tanishq Kumar Tripathi
